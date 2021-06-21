@@ -1,7 +1,4 @@
-
-<p align="center">
 # Snake In Processing
-</p>
 <p align="center">
   <img src="screenshot.png">
 </p>
